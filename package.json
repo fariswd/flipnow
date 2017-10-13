@@ -1,6 +1,6 @@
 {
   "name": "flipnow",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "flip coin",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fariswd/flips.git"
+    "url": "git+ssh://git@github.com/fariswd/flipnow.git"
   },
   "keywords": [
     "flip",
@@ -20,9 +20,9 @@
   "author": "fariswd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fariswd/flips/issues"
+    "url": "https://github.com/fariswd/flipnow/issues"
   },
-  "homepage": "https://github.com/fariswd/flips#readme",
+  "homepage": "https://github.com/fariswd/flipnow#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.0.1"

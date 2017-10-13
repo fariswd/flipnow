@@ -7,12 +7,16 @@ flipnow return head or tails
 ```shell
   npm install git://github.com/fariswd/flipnow.git
 ```
+OR
+```shell
+  npm install flipnow
+```
 
 ## Usage
 
 ```js
-var flip = require('flipnow');
-console.log(flip.flipNow());
+  var flip = require('flipnow');
+  console.log(flip.flipNow());
 ```
 
 ## Tests
@@ -22,4 +26,4 @@ console.log(flip.flipNow());
 
 ## Release History
 
-* 0.1.0 Initial release
+* 0.1.2 Initial release

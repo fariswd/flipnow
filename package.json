@@ -1,0 +1,30 @@
+{
+  "name": "flipnow",
+  "version": "0.1.0",
+  "description": "flip coin",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fariswd/flips.git"
+  },
+  "keywords": [
+    "flip",
+    "coin",
+    "flipcoin",
+    "head",
+    "tails"
+  ],
+  "author": "fariswd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fariswd/flips/issues"
+  },
+  "homepage": "https://github.com/fariswd/flips#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
